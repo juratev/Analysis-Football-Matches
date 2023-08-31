@@ -1,5 +1,5 @@
 # Analysis-Football-Matches
-Analysis of data about football matches.
+Project completed on **January 20, 2023.**
 
 ### Data:
 Ultimate 25k+ Matches Football Database from <a href='https://www.kaggle.com/datasets/prajitdatta/ultimate-25k-matches-football-database-european'>Kaggle</a>. <br>
